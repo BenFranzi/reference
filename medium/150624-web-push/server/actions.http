@@ -1,0 +1,5 @@
+### PUT request to /colors with message=green
+PUT http://localhost:3001/colors?message=blue
+
+### PUT request to /notification with message=hello
+PUT http://localhost:3001/notifications?message=sdgdfsgdfgdfgdfgdfgdfgdfgdfgdf
